@@ -2,6 +2,14 @@
   "name": "apnasweets",
   "version": "2.0.0",
   "description": "ApnaSweets shop + owner dashboard with a Node.js backend",
-  "scripts": { "start": "node server.js" },
-  "engines": { "node": ">=18" }
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "mongodb": "^7.7.0"
+  }
 }
