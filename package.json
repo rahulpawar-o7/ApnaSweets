@@ -1,0 +1,7 @@
+{
+  "name": "apnasweets",
+  "version": "2.0.0",
+  "description": "ApnaSweets shop + owner dashboard with a Node.js backend",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
